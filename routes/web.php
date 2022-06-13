@@ -19,4 +19,4 @@ Route::get('/view', [UserController::class, 'test'])->name('test');
 
 Route::get('/result', [UserController::class, 'result'])->name('result');
 
-Route::get('/users', [UserController::class, 'result']);
+Route::get('/users', [UserController::class, 'resukaskjfkjasdfklhjfsadt']);
